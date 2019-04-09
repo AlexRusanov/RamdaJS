@@ -1,0 +1,95 @@
+.container {
+    font-family:sans-serif;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: inline-block;
+    font-size: 80px;
+    color: black;
+    margin-top: 60px;
+    margin-bottom: 45px;
+}
+
+.top-menu {
+    background-color: #35444f;
+    height: 70px;
+    text-align: center;
+}
+
+.top-menu-item {
+    display: inline-block;
+    font-size: 24px;
+    color: white;
+    padding:25px 40px;
+}
+
+.left-menu {
+    display: inline-block;
+    border: 1px solid #35444f;
+    width: 345px;
+    margin-top: 50px;
+    color: #495863;
+    font-size: 30px;
+}
+
+.left-menu-item {
+    padding: 25px 0 25px 45px;
+}
+
+/*.left-menu-item:hover {*/
+    /*color: black;*/
+    /*background-color: #dbdbdb;*/
+    /*padding-left: 70px;*/
+/*}*/
+
+.content-block {
+    display: inline-block;
+    width: 885px;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-left: 43px;
+    margin-bottom: 20px;
+}
+
+.content-block-img {
+    height: 530px;
+    background-image: url("../img/ramda-icon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #35444f;
+    margin-bottom: 50px;
+}
+
+.content-block-text {
+    width: 90%;
+    font-size: 18px;
+    margin: 0 auto 30px;
+}
+
+.footer {
+    height: 70px;
+    background-color: #b4b7ba;
+}
+
+.footer-menu {
+    display: inline-block;
+    margin-left: 45px;
+}
+
+.footer-menu-item {
+    display: inline-block;
+    font-size: 28px;
+    padding: 20px 10px;
+}
+
+.footer-copyright {
+    display: inline-block;
+    font-size: 24px;
+    margin-left: 120px;
+}
+
+.blue-text {
+    color: #4bcaff;
+}
